@@ -198,5 +198,5 @@ If you encounter any issues or have questions:
 3. Ensure your Python version is 3.7+
 
 ---
-
+This project idea is inspired from `https://roadmap.sh/projects/github-user-activity`
 Made with ❤️ by developers, for developers
